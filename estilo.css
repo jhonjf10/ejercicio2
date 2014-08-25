@@ -1,0 +1,25 @@
+#nombre
+{
+	background: -webkit-linear-gradient(right, #552525,#0489B1); ;
+	
+	color: #552525;
+	padding: 10px 30px 40px 300px;
+	font-size: 100px;
+	font-family: bradley hand itc;
+
+	border-radius: 200px;
+	
+	margin-top: 1px;
+	font-weight: 800;
+	box-shadow: 5px 5px 5px 0px ;
+}
+#tipoanima, #ejecuta
+{
+	background: -webkit-radial-gradient(right, #2A0A0A,#5F4C0B); ;
+	padding: 10px 50px 40px 30px;
+	font-size: 50px;
+	font-family: bradley hand itc;
+	 position: relative;
+    top: 20px;
+    left: 60px;
+}
